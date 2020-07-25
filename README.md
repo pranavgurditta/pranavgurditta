@@ -14,7 +14,7 @@ https://www.linkedin.com/in/pranavgurditta/
 # PROJECTS
 
 # Content-Zilla : A platform for poets and content writers.
-Mar 2020 – Present
+
 
 Project description  
 Content Zilla is a platform where poets and content writers can showcase their talent by posting poems and content write-ups.  
@@ -23,7 +23,6 @@ It provides an opportunity for creative people to read each other's content as w
 
 
 # Video Recommendation System
-Aug 2019 – Nov 2019
 
 Project description  
 The project performs sentiment-based analysis on the basis of video comments provided by the YouTube Data API for a given topic and suggests the top 5 video links.  
@@ -32,7 +31,7 @@ The video recommendation system can be seen live at https://video-recommendation
 
 
 # Multilingual banking voice assistant
-Jan 2019 – Apr 2019
+
 
 Project description 
 You could see a live demo of the project here:  
