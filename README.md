@@ -3,7 +3,7 @@
 
 I live by the line "infusing life into my code".
 I am good at initiating conversations and I have affluent public speaking skills.
-I am currently a Beta Microsoft Student Partner. I like to participate in hackathons, technical workshops and seminars, as well as organise them.
+I am currently a Microsoft Learn Student Ambassador(Beta). I like to participate in hackathons, technical workshops and seminars, as well as organise them.
 I like to learn new technologies. I recently learned to make a website using MERN stack. I also completed a data science professional certificate from IBM by coursera.
 I am practicing competitive coding these days and focusing on data structure and algorithms.
 I like to do Yoga, write poetries, and play guitar.
